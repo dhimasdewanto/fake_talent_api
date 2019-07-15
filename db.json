@@ -8,7 +8,11 @@
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 3 }
     ],
-    "profile": {
-      "name": "typicode"
+    "dashboard": {
+      "name": "Felisa Kanter",
+      "achievement": 128,
+      "exp": 940,
+      "points": 240,
+      "level": 9,
     }
   }
