@@ -1,32 +1,53 @@
 {
     "courses": [
-        { 
-            "id": 1, 
-            "title": "First Course", 
-            "subtitle": "Tam Talent", 
-            "rating": 4.0, 
-            "votes": 250 
+        {
+            "id": 1,
+            "title": "First Course",
+            "subtitle": "Tam Talent",
+            "rating": 4.0,
+            "votes": 250
         },
-        { 
-              "id": 2, 
-              "title": "Second Course", 
-              "subtitle": "Tam Talent", 
-              "rating": 5.0, 
-              "votes": 1920 
+        {
+            "id": 2,
+            "title": "Second Course",
+            "subtitle": "Tam Talent",
+            "rating": 5.0,
+            "votes": 1920
         },
-        { 
-              "id": 3, 
-              "title": "Third Course", 
-              "subtitle": "Tam Talent", 
-              "rating": 4.5, 
-              "votes": 550 
+        {
+            "id": 3,
+            "title": "Third Course",
+            "subtitle": "Tam Talent",
+            "rating": 4.5,
+            "votes": 550
+        },
+        {
+            "id": 4,
+            "title": "Fourth Course",
+            "subtitle": "Tam Talent",
+            "rating": 3.5,
+            "votes": 150
+        },
+        {
+            "id": 5,
+            "title": "Fifth Course",
+            "subtitle": "Tam Talent",
+            "rating": 4.0,
+            "votes": 6090
+        },
+        {
+            "id": 6,
+            "title": "Sixth Course",
+            "subtitle": "Tam Talent",
+            "rating": 5.0,
+            "votes": 4
         }
     ],
     "dashboard": {
         "name": "Felisa Kanter",
         "achievement": 128,
         "exp": 940,
-        "points": 240,
+        "points": 240,      
         "level": 9
     }
 }
