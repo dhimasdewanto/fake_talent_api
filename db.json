@@ -5,42 +5,48 @@
             "title": "First Course",
             "subtitle": "Tam Talent",
             "rating": 4.0,
-            "votes": 250
+            "votes": 250,
+            "progression": 100
         },
         {
             "id": 2,
             "title": "Second Course",
             "subtitle": "Tam Talent",
             "rating": 5.0,
-            "votes": 1920
+            "votes": 1920,
+            "progression": 98
         },
         {
             "id": 3,
             "title": "Third Course",
             "subtitle": "Tam Talent",
             "rating": 4.5,
-            "votes": 550
+            "votes": 550,
+            "progression": 58
         },
         {
             "id": 4,
             "title": "Fourth Course",
             "subtitle": "Tam Talent",
             "rating": 3.5,
-            "votes": 150
+            "votes": 150,
+            "progression": 23
         },
         {
             "id": 5,
             "title": "Fifth Course",
             "subtitle": "Tam Talent",
             "rating": 4.0,
-            "votes": 6090
+            "votes": 6090,
+            "progression": 12
         },
         {
             "id": 6,
             "title": "Sixth Course",
             "subtitle": "Tam Talent",
             "rating": 5.0,
-            "votes": 4
+            "votes": 4,
+            "progression": 0
         }
     ],
     "dashboard": {
