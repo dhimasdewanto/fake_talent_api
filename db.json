@@ -131,5 +131,37 @@
         "exp": 940,
         "points": 240,
         "level": 9
-    }
+    },
+    "modules": [
+        {
+            "id": 1,
+            "name": "Pembelajaran Pertama",
+            "link": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+            "type": "Video Learning",
+            "isDownloadable": true,
+            "points": 50,
+            "duration": 120,
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        },
+        {
+            "id": 2,
+            "name": "Perkenalan menggunakan PDF",
+            "link": "http://www.africau.edu/images/default/sample.pdf",
+            "type": "Journal Game",
+            "isDownloadable": true,
+            "points": 5,
+            "duration": 120,
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        },
+        {
+            "id": 3,
+            "name": "Pendengaran melalui Podcast",
+            "link": "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3",
+            "type": "Podcast",
+            "isDownloadable": true,
+            "points": 12,
+            "duration": 120,
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        }
+    ]
 }
