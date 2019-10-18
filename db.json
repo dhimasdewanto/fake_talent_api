@@ -54,57 +54,69 @@
     "courses": [
         {
             "id": 1,
-            "title": "First Course",
+            "name": "First Course",
             "imageUrl": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Mandatory Training Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 20,
             "rating": 4.0,
-            "votes": 250,
-            "progression": 100
+            "price": 0
         },
         {
             "id": 2,
-            "title": "Second Course",
+            "name": "Second Course",
             "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Entry Development Training Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 12,
             "rating": 5.0,
-            "votes": 1920,
-            "progression": 98
+            "price": 19200
         },
         {
             "id": 3,
-            "title": "Third Course",
+            "name": "Third Course",
             "imageUrl": "https://images.unsplash.com/photo-1508704019882-f9cf40e475b4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c6e5e3aba713b17aa1fe71ab4f0ae5b&auto=format&fit=crop&w=1352&q=80",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Instructor Development Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 50,
             "rating": 4.5,
-            "votes": 550,
-            "progression": 58
+            "price": 0
         },
         {
             "id": 4,
-            "title": "Fourth Course",
+            "name": "Fourth Course",
             "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Entry Development Training Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 5,
             "rating": 3.5,
-            "votes": 150,
-            "progression": 23
+            "price": 15000
         },
         {
             "id": 5,
-            "title": "Fifth Course",
+            "name": "Fifth Course",
             "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Instructor Development Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 30,
             "rating": 4.0,
-            "votes": 6090,
-            "progression": 12
+            "price": 609000
         },
         {
             "id": 6,
-            "title": "Sixth Course",
+            "name": "Sixth Course",
             "imageUrl": "https://instagram.fcgk9-2.fna.fbcdn.net/vp/6bdc79e3b72e66975c1ba723d1db1d62/5E6132DD/t51.2885-15/sh0.08/e35/p640x640/61103304_2770951156265425_8323558515985874472_n.jpg?_nc_ht=instagram.fcgk9-2.fna.fbcdn.net&_nc_cat=101",
-            "subtitle": "Tam Talent",
+            "programTypeName": "Thematic Training Program",
+            "topicName": "aaaa",
+            "duration": 120,
+            "points": 50,
             "rating": 5.0,
-            "votes": 4,
-            "progression": 0
+            "price": 4000
         }
     ],
     "dashboard": {
