@@ -122,7 +122,8 @@
     "dashboard": {
         "name": "Felisa Kanter",
         "achievement": 128,
-        "points": 940,
+        "exp": 940,
+        "points": 240,
         "level": 9
     },
     "modules": [
